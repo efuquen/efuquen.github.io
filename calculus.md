@@ -1,7 +1,3 @@
-layout: page
-title: "Calculus"
-permalink: /calculus
-
 # Calculus
 
 ## Section 1: Limits
